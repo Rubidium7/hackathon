@@ -1,10 +1,10 @@
 <a id="readme-top"></a>
 
 <div align="center">
-  <h2 align="center">hackathon</h3>
+  <h2 align="center">Hackathon</h3>
 </div>
 
-<details>
+<!--<details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -17,9 +17,9 @@
         <li><a href="#how-to-run-it">How to run it</a></li>
       </ul>
     </li>
-    <!--<li><a href="#roadmap">Roadmap</a></li>-->
+    <!--<li><a href="#roadmap">Roadmap</a></li>-f->
   </ol>
-</details>
+</details>-->
 
 
 
