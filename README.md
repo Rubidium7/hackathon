@@ -52,7 +52,7 @@ The posting also wished for Rust knowledge, and I realized that maybe instead of
 ## First Project: [ping](https://github.com/Rubidium7/ping) <a id="first-project"></a>
 
 To kick things off I started with this simple network protocol related exercise. I wanted to keep it small so I could leave more time for the bigger and rustier fish. 
-This I made in C as translating and learning about all the needed syscalls to Rust seemed like it would eat up way too much of my time for this, it was also nice to start out on a bit more of a familiar ground.
+This I made in C as translating and learning about all the needed syscalls to Rust seemed like it would eat up way too much of my time for this. It was also nice to start out on a bit more of a familiar ground.
 I'm already quite familiar with low-level network and socket programming from when made my own [irc server](https://github.com/Rubidium7/ft_irc), but I learned more about ip addresses, domains and managing sending and receving packets here.
 
 <!-- SECOND PROJECT -->
